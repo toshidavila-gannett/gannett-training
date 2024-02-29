@@ -1,0 +1,22 @@
+{
+  "name": "gannett-training",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshidavila-gannett/gannett-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshidavila-gannett/gannett-training/issues"
+  },
+  "homepage": "https://github.com/toshidavila-gannett/gannett-training#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
