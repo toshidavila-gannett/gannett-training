@@ -2,7 +2,7 @@
     console.log(`Hello ${name}`)
 }
 
-// sayHello('Toshi')
+sayHello('Toshi')
 console.log(window)*/
 
 var sayHello = function() {
